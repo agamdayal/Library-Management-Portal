@@ -1,0 +1,24 @@
+.main{
+	font-size: 50px;
+    font-family: fantasy;
+    color: black;
+    margin-left: 350px;
+}
+
+.librarian{
+	font-size: 40px;
+    font-style: oblique;
+    font-family: revert;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.student{
+	font-size: 40px;
+    font-style: oblique;
+    font-family: revert;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
